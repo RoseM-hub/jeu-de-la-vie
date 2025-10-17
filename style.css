@@ -14,3 +14,6 @@ canvas {
 #controls label {
   margin: 0 10px;
 }
+canvas {
+  border: 3px solid blue;
+}
